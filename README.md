@@ -3,6 +3,9 @@
 Projeto realizado no Bootcamp Santander 2022 [Digital Innovation One](https://digitalinnovation.one/).
 
 - Criando um front-end de um e-commerce utilizando Angular e consumindo uma API para exibir as informações dos livros.
+
+- Este projeto é requisito necessário para conclusão do bootcamp Santander Bootcamp Fullstack Developer
+
 - [API E-commerce](https://github.com/naatscs/DIO-LiveCoding-Api-GETProducts)
 
 # ECommerce
